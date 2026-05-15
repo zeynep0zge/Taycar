@@ -1,2 +1,5 @@
 # Taycar
-A real-time collaborative web platform for online studying, note sharing, and live coding.
+
+Taycar is a web application idea focused on online studying, note sharing, and live coding.
+
+The project is currently in the planning phase and will be developed step by step.
